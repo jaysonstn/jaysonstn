@@ -19,5 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas 📚<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-stein-dev/)
 
-<img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1659462279Badge_Sharer_Alura_ChallengeOracleONE_2000x2000_V3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"/> 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/65431625/185265759-4c556efe-43c0-4487-9a22-17b62d400c40.png" width="200px"/>
+</div>
