@@ -3,7 +3,6 @@
 
 
 
-![Jayson GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysonstn&show_icons=true&theme=dracula)
 
 ### Tecnologias 🚀:
 
@@ -17,7 +16,7 @@ Apaixonado por tecnologia 💻<br/>
 Estudando Desenvolvimento Web 📚 <br/>
 Estudante de Análise e Desenvolvimento de Sistemas 📚<br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-stein-dev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-stn-dev/)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/65431625/185265759-4c556efe-43c0-4487-9a22-17b62d400c40.png" width="200px"/>
