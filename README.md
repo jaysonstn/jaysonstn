@@ -15,8 +15,3 @@
 Apaixonado por tecnologia 💻<br/>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-stn/)
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/65431625/185265759-4c556efe-43c0-4487-9a22-17b62d400c40.png" width="200px"/>
-</div>
