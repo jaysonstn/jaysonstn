@@ -2,35 +2,22 @@
 
 ## Olá 🙏 Eu sou Jayson
 
+<img align="right" alt="coding-gif" width="400" src="https://github.com/jaysonstn/jaysonstn/blob/main/transparent_gitgif.gif">
 
-<div class="markdown-heading" dir="auto">
-    <h3 class="heading-element" dir="auto">
-        <font style="vertical-align: inherit;"> 
-            <font style="vertical-align: inherit;">
+
+<h3 align="left"> 
      💫Sobre mim
-            </font><br><br>
-    </h3>
-</div>
+</h3>
 
-<div class="markdown-heading" dir="auto">
-    <h4 class="heading-element" dir="auto">
-        <font style="vertical-align: inherit;"> 
-            <font style="vertical-align: inherit;">
-    🌱Estou trabalhando e desenvolvendo minhas habilidades em programação.
-            </font>
-        </font><br>
-          <font style="vertical-align: inherit;"> 
-            <font style="vertical-align: inherit;">
-    🎯Atualmente estou focando em desenvolver aplicações web.
-            </font>
-        </font><br>
-                  <font style="vertical-align: inherit;"> 
-            <font style="vertical-align: inherit;">
-    📚Estudando desenvolvimento backend em Java.
-            </font>
-        </font><br>
-    </h4>
-</div>
+
+ <h4 align="left"> 
+    🌱Estou aprimorando minhas habilidades em desenvolvimento web.<br>
+    📚Atualmente tenho me dedicado a estudar HTML, CSS, BootStrap e JavaScript,
+    para desenvolver soluções web otimizadas e completas.<br>
+    🎯No backend, tenho estudado linguagens como Python e Java, com o objetivo
+    de ampliar meus conhecimentos nessas linguagens e em suas principais bibliotecas.<br>
+ </h4><br><br>
+
 
 
 
