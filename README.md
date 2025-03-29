@@ -19,6 +19,16 @@
     🌱Estou trabalhando e desenvolvendo minhas habilidades em programação.
             </font>
         </font><br>
+          <font style="vertical-align: inherit;"> 
+            <font style="vertical-align: inherit;">
+    🎯Atualmente estou focando em desenvolver aplicações web.
+            </font>
+        </font><br>
+                  <font style="vertical-align: inherit;"> 
+            <font style="vertical-align: inherit;">
+    📚Estudando desenvolvimento backend em Java.
+            </font>
+        </font><br>
     </h4>
 </div>
 
