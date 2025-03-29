@@ -12,7 +12,7 @@
 
  <h4 align="left"> 
     🌱Estou aprimorando minhas habilidades em desenvolvimento web.<br>
-    📚Atualmente tenho me dedicado a estudar HTML, CSS, BootStrap e JavaScript,
+    📚Atualmente tenho me dedicado em HTML, CSS, BootStrap e JavaScript,
     para desenvolver soluções web otimizadas e completas.<br>
     🎯No backend, tenho estudado linguagens como Python e Java, com o objetivo
     de ampliar meus conhecimentos nessas linguagens e em suas principais bibliotecas.<br>
