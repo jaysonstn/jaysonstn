@@ -2,8 +2,6 @@
 
 ## Olá 🙏 Eu sou Jayson
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/jaysonstn/jaysonstn/blob/main/transparent_gitgif.gif">
-
 
 <h3 align="left"> 
      💫Sobre mim
