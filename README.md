@@ -1,15 +1,20 @@
-
+<img align="center" alt="Imagem estilo Fallout pixelada" width="1000px" height="400px" src="https://github.com/jaysonstn/jaysonstn/blob/main/fallout.gif" />
 
 ## Olá 🙏 Eu sou Jayson
 
 
+<div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto">
+        <font style="vertical-align: inherit;"> 
+            <font style="vertical-align: inherit;">
+     💫Sobre mim
+            </font><br><br>
+    </h3>
+</div>
 
 <div class="markdown-heading" dir="auto">
     <h4 class="heading-element" dir="auto">
         <font style="vertical-align: inherit;"> 
-            <font style="vertical-align: inherit;">
-     🌟Sobre mim
-            </font><br><br>
             <font style="vertical-align: inherit;">
     🌱Estou trabalhando e desenvolvendo minhas habilidades em programação.
             </font>
