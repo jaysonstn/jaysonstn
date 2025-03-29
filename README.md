@@ -1,7 +1,25 @@
 
 
-### Tecnologias 🚀:
+## Olá 🙏 Eu sou Jayson
 
+
+
+<div class="markdown-heading" dir="auto">
+    <h4 class="heading-element" dir="auto">
+        <font style="vertical-align: inherit;"> 
+            <font style="vertical-align: inherit;">
+     🌟Sobre mim
+            </font><br><br>
+            <font style="vertical-align: inherit;">
+    🌱Estou trabalhando e desenvolvendo minhas habilidades em programação.
+            </font>
+        </font><br>
+    </h4>
+</div>
+
+
+
+<img align="center" alt="Linha" src="https://raw.githubusercontent.com/jaysonstn/jaysonstn/refs/heads/main/linha.gif" />
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
