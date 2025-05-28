@@ -1,4 +1,3 @@
-<img align="center" alt="Imagem estilo Fallout pixelada" width="1000px" height="400px" src="https://github.com/jaysonstn/jaysonstn/blob/main/fallout.gif" />
 
 ## Olá Mundo! 👋 Eu sou Jayson
 
