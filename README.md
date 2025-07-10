@@ -3,7 +3,7 @@
 
 
 <h3 align="left"> 
-     💫Sobre mim
+     Sobre mim
 </h3>
 
 
