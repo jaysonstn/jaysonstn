@@ -1,20 +1,22 @@
 <h1 align="center">Olá Mundo! 👋 Eu sou o Jayson</h1>
 
 <p align="center">
-  🌐 Desenvolvedor focado em soluções web modernas e eficientes <br>
+  🌐 Desenvolvedor focado em soluções modernas e eficientes <br>
   💡 Apaixonado por tecnologia, aprendizado contínuo e inovação <br>
   📍 Brasil
 </p>
 
 ---
 
-### 🚀 Sobre mim
+<div align="center">
+  <p align="center">
+     🚀 Focado em: 
+  </p>
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web**, com foco em criar experiências digitais modernas, responsivas e acessíveis.  
-Foco em:
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 
-- 🚀 **React, Nextjs, Tailwindcss, e Node** para soluções mais robustas e profissionais;
-- ☕ **Java para backend**, explorando a linguagem em profundidade: POO, coleções, tratamento de erros, JavaFX, e JDBC.
+</div>
+
 
 
 ---
