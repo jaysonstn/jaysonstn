@@ -13,7 +13,6 @@
 Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web**, com foco em criar experiências digitais modernas, responsivas e acessíveis.  
 Foco em:
 
-- 🎨 **HTML, CSS, Bootstrap e JavaScript** para construir interfaces web otimizadas;
 - 🚀 **React, Nextjs, Tailwindcss, e Node** para soluções mais robustas e profissionais;
 - ☕ **Java para backend**, explorando a linguagem em profundidade: POO, coleções, tratamento de erros, JavaFX, e JDBC.
 
