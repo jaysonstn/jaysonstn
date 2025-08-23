@@ -6,24 +6,7 @@
   📍 Brasil
 </p>
 
----
 
-<div align="center">
-  <p align="center">
-     🚀 Focado em: 
-  </p>
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
-
-</div>
-
-
-
----
-
-### 🌐 Conheça meu site
-
-🔗 [www.jotasoftwares.com.br](https://www.jotasoftwares.com.br)
 
 ---
 
