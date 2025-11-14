@@ -8,16 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TOTVS_Protheus-007ACC?style=for-the-badge&logo=totvs&logoColor=white" alt="TOTVS Protheus" />
-  <img src="https://img.shields.io/badge/ADVPL-ff6f00?style=for-the-badge&logoColor=white" alt="ADVPL" />
-</p>
-
-
-
-
----
 
 
 
