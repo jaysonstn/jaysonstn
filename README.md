@@ -1,64 +1,29 @@
-<h1 align="center">🚀 Olá, eu sou o Jayson</h1>
+<h2>👋 Olá, eu sou o Jayson</h2>
 
-<p align="center">
-  💻 Backend Developer | ⚙️ DevOps Enthusiast <br>
-  🐳 Docker • ☸️ Kubernetes • 🔄 CI/CD • 📊 Observabilidade <br>
-  📍 Brasil
+🔭 Foco em DevOps e Infraestrutura  
+🔭 Experiência com containers, automação e monitoramento  
+🔭 Backend com múltiplas stacks conforme necessidade do projeto  
+
+---
+
+## ⚙️ DevOps & Infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 💻 Backend
 
-Sou desenvolvedor backend com foco em **Node.js e arquitetura de APIs modernas**, aplicando práticas de **DevOps**, automação e observabilidade.
-
-Tenho foco em integrar desenvolvimento e operações, aplicando práticas de DevOps no ciclo completo da aplicação — da escrita do código ao deploy e monitoramento.
-Trabalho com containerização, pipelines de CI/CD e exposição de métricas, buscando sempre confiabilidade e previsibilidade em produção.
-
----
-
-## 🛠️ Stack Principal
-
-### 🔹 Backend
-- Node.js
-- Express
-- PostgreSQL
-- JWT Authentication
-- REST APIs
-
-### 🔹 DevOps & Infra
-- Docker
-- Docker Compose
-- Kubernetes
-- GitHub Actions (CI/CD)
-- Nginx
-- Linux
-
-### 🔹 Observabilidade
-- Grafana
-- Prometheus
-- InfluxDB
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysonstn&theme=dracula"/>
-</div>
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Backend Developer com foco em DevOps**, criando aplicações modernas com:
-
-- Containerização
-- Integração Contínua
-- Deploy Automatizado
-- Monitoramento e métricas
-
-
----
-
-⭐ Sempre aprendendo
+⭐ Sempre aprendendo.
